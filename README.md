@@ -32,8 +32,6 @@ The dashboard provides insights on:
 - Data Cleaning
 - Data Visualization
 
-## Dashboard Preview
-![Dashboard Preview](Images/dashboard-preview.png)
 
 ## Project Objective
 To analyze product demand, pricing strategy, and inventory availability to generate business insights for a quick-commerce platform like Zepto.
